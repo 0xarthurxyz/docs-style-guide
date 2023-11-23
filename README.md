@@ -1,4 +1,4 @@
-# Markdown (cheat Sheet)
+# Docs Style Guide
 
 ## [Google Developer Documentation Style Guide](https://developers.google.com/style)
 
